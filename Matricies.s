@@ -16,7 +16,7 @@ exit:
 B: .skip 16
 .balign 4
 A: .skip 16
-.balign 4
 C: .word 0
+.balign 4
 D: .skip 36
 
